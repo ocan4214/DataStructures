@@ -55,7 +55,7 @@ func minCostClimbingStairs(cost []int) int {
 }
 
 func main() {
-	input := []int{1, 100, 1, 1, 1, 100, 1, 1, 100, 1}
+	input := []int{1, 100, 1, 5, 6, 100, 99, 1, 100, 1}
 	//input := []int{10, 15, 25}
 	//input := []int{0, 0, 1, 1}
 	//input := []int{0, 1, 1, 0}
